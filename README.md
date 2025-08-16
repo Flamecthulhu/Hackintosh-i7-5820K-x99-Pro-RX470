@@ -1,6 +1,8 @@
 # Hackintosh 
 
-## Config:
+## Configuration
+
+| Name | Model | Note |
 | --- | --- | --- |
 | CPU | i7-5820k |  |
 | Motherboard | Asus X99 Pro/USB 3.1 |  |
