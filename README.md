@@ -12,7 +12,7 @@ MacOS version: macOS 12.7.6
 - Bluetooth
 - Nvidia graphic
 
-## Configuration
+## Hardware Configuration
 
 | Name | Model | Note |
 | --- | --- | --- |
