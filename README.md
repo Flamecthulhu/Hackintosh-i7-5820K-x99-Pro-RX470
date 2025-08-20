@@ -6,6 +6,7 @@ MacOS version: macOS 12.7.6
 - USB port
 - Video output
 - Sound card
+- Ethernet
 
 ## Not working
 - Bluetooth
@@ -22,6 +23,7 @@ MacOS version: macOS 12.7.6
 | Graphic Card | MSI Radeon RX 470 4G Gaming X | For MacOS |
 | Storage | ADATA SU650 240GB SATA SSD |  |
 | Wireless | Broadcom BCM94352HMB |  |
+| Ethernet | intel I218V |  | 
 | Audio | Realtek ALC 1150 | Motherboard internal | 
 
 
